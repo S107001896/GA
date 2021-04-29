@@ -105,15 +105,43 @@ Analytics will count how many Unique Events?
 尺寸和範圍可用的範圍級別指標？
 Hit-level, session-level, product-level, or user- level scope
 命中級，會話級，產品級或用戶級範圍
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
+27.Which assets cannot be shared in the Solutions Gallery?
+解決方案中無法共享哪些資產畫廊？
+Custom Dimensions
+自定義尺寸
+28.Which Goals are available in Google Analytics?
+Google Analytics（分析）中可以使用哪些目標？
+Destination, Event, Duration, Pages/Screens per Session
+目的地，事件，持續時間，頁面/屏幕每節
+29.What report identifies browsers that may have had problems with a website?
+哪些報告標識了可能擁有的瀏覽器網站有問題嗎？
+The Browser and OS report
+瀏覽器和操作系統報告
+30.What scope would be set for a Custom Dimension that reports membership status for 
+a customer rewards program?
+將為報告以下項目的成員資格狀態的自定義維度設置什麼範圍客戶獎勵計劃？
+User
+用戶
+31.To track users and sessions across multiple domains,what first must be set up?
+要跟踪多個域中的用戶和會話，首先必須設置什麼？
+Cross-domain tracking
+跨域跟踪
+32.When the same default tracking code is installed on pages with different domains, what will result?
+當在上安裝了相同的默認跟踪代碼時具有不同域的頁面，結果如何？
+Analytics will associate users and sessions with their respective domains
+Analytics（分析）會將使用者和工作階段與各自的網域建立關聯
+33.What feature would be used to collect how many times users downloaded a product catalog?
+什麼功能將被用來收集多少用戶下載產品目錄的次數？
+Event Tracking
+事件追踪
+34.What is a “secondary dimension” in Google Analytics?
+Google分析中的“次級維度”是什麼？
+An additional report dimension for more specific analysis
+附加報告維度，用於更具體的分析
+35.When will Google Analytics be unable to identify sessions from the same user by default?
+Google Analytics（分析）什麼時候無法識別默認情況下，來自同一用戶的會話？
+When the sessions happen in different browsers on the same device
+當會話在不同的瀏覽器中發生時在同一台設備上
 36.
 37.
 38.
