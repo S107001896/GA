@@ -77,13 +77,34 @@ Category, Action, Label, Value
 無法通過以下方式定義哪些再營銷受眾群體默認？
 Users who visited a physical store
 訪問過實體店的用戶
-20.
-21.
-22.
-23.
-24.
-25.
-26.
+20.What data is Google Analytics Goals unable to track?
+Google Analytics（分析）目標無法跟踪哪些數據？
+Customer’s lifetime value
+客戶的終生價值
+21.In Custom Reports, what must metrics and dimensions share in order to report accurately?
+在“自定義報告”中，指標和維度必須共享哪些內容才能準確報告？
+Same scope
+範圍相同
+22.What is used to create Smart Goals?
+什麼用於創建智能目標？
+Machine-learning algorithms
+機器學習算法
+23.Which three campaign parameters are recommended to manually track campaigns?
+建議使用哪三個廣告系列參數手動跟踪廣告系列？
+Medium, Source and Campaign
+媒介，來源和廣告系列
+24.Filters cannot perform what action on collected data?
+篩選器無法對收集的數據執行什麼操作？
+Include shopping preferences
+包括購物偏好
+25.If a user watches a video with event tracking three times in a single session, 
+Analytics will count how many Unique Events?
+如果用戶在單個會話中觀看了三個帶有事件跟踪的視頻，那麼Google Analytics（分析）將計算出多少個唯一事件？
+1
+26.What scope levels available for dimensions and metrics?
+尺寸和範圍可用的範圍級別指標？
+Hit-level, session-level, product-level, or user- level scope
+命中級，會話級，產品級或用戶級範圍
 27.
 28.
 29.
