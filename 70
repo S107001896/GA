@@ -18,15 +18,33 @@ Last campaign, search or ad
 什麼報告指出網站的頁面用戶首先到達？
 Landing Pages report
 著陸頁報告
-6.What feature is required to send data from a web-connected device(like a point-of-sale system to Google Analytics?
+6.What feature is required to send data from a web-connected device(like a point-of-sale 
+system to Google Analytics?
 從網絡連接的設備（例如銷售點系統）向Google Analytics（分析）發送數據需要什麼功能？
 The Measurement Protocol
 測量協議
-7.
-8.
-9.
-10.
-11.
+7.What is not considered a default “medium” in GoogleAnalytics?
+在Google分析中不被視為默認的“媒介”?
+google
+谷歌
+8.What is the set of rules that determines how sales and conversions get 
+credited based on touch-points in the conversion path?
+根據轉化路徑中的接觸點確定銷售和轉化如何獲得功勞的規則是什麼？
+Attribution modeling
+歸因建模
+9.What metric-dimension combination is not valid?
+哪種度量維度組合無效？
+Sessions / Bounce rate
+會話數/跳出率
+10.Which reports indicate how traffic arrived at a website?
+哪些報告表明流量如何到達網站？
+All Traffic
+所有流量
+11.In views that don’t have data import enabled, Custom Dimensions values may be viewed for dates 
+before the Custom Dimension was created.
+在未啟用數據導入的視圖中，可能會在創建“自定義維度”之前查看“自定義維度”值的日期。
+TRUE
+真的
 12.
 13.
 14.
