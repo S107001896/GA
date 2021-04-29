@@ -1,12 +1,27 @@
-1.What feature collects company-specific data such as
-Member Status?
+1.What feature collects company-specific data such asMember Status?
 什麼功能可以收集公司特定的數據，例如會員身份？
-
-2.
-3.
-4.
-5.
-6.
+Custom Dimension
+自訂維度
+2.Which kinds of hits does Google Analytics track?
+Google Analytics（分析）會跟踪哪些類型的匹配？
+All of the above
+上述所有的
+3.To recognize users across different devices, whatfeature must be enabled?
+要識別不同設備上的用戶，功能必須啟用？
+User ID
+用戶身份
+4.In Multi-Channel Funnel reports, how are defaultconversions credited?
+在“多渠道路徑”報告中，默認設置如何轉換已記入？
+Last campaign, search or ad
+最後廣告系列，搜索或廣告
+5.What report indicates the pages of a website whereusers first arrived?
+什麼報告指出網站的頁面用戶首先到達？
+Landing Pages report
+著陸頁報告
+6.What feature is required to send data from a web-connected device(like a point-of-sale system to Google Analytics?
+從網絡連接的設備（例如銷售點系統）向Google Analytics（分析）發送數據需要什麼功能？
+The Measurement Protocol
+測量協議
 7.
 8.
 9.
