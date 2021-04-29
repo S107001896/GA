@@ -45,14 +45,38 @@ before the Custom Dimension was created.
 在未啟用數據導入的視圖中，可能會在創建“自定義維度”之前查看“自定義維度”值的日期。
 TRUE
 真的
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
+12.Custom Dimensions can be used as what?
+自定義尺寸可以用作什麼？
+All of the above
+上述所有的
+13.What feature must be enabled to use Multi-Channel Funnels?
+必須啟用什麼功能才能使用多渠道漏斗？
+Goals or Ecommerce
+目標或電子商務
+14.What data table display compares report metrics to the website average?
+數據表顯示將報告指標與網站的平均水平？
+Comparison
+比較
+15.View filters are applied in what order?
+視圖過濾器以什麼順序應用？
+Sequential order
+順序順序
+16.Auto-tagging is used to collect data from what kind of traffic?
+自動標記用於收集哪種類型的數據交通？
+Google Ads Campaign traffic
+Google Ads廣告系列流量
+17.What report indicates where users start or exit the conversion funnel?
+什麼報告會指示用戶在哪裡開始或退出轉化渠道？
+Goal Flow
+目標流
+18.Which parameters can be included with an event hit for reporting?
+事件匹配中可以包含哪些參數報告？
+Category, Action, Label, Value
+類別，動作，標籤，值
+19.What Remarketing audiences cannot be defined by default?
+無法通過以下方式定義哪些再營銷受眾群體默認？
+Users who visited a physical store
+訪問過實體店的用戶
 20.
 21.
 22.
@@ -136,6 +160,3 @@ TRUE
 100.
 101.
 102.
-
-
-
