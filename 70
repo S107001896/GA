@@ -383,11 +383,36 @@ Choose “Faster response” in the sampling pulldown menu
 在進行細分之前，採樣將應用於報告。
 FALSE
 錯誤的
-95.
-96.
-97.
-98.
-99.
-100.
-101.
-102.
+95.If a web page visitor clears the Analytics cookie from their browser, what will occur?
+如果網頁訪問者清除了Google Analytics（分析）的Cookie，他們的瀏覽器，會發生什麼？
+All of the above
+上述所有的
+96.Which reports require the activation of Advertising Features?
+哪些報告需要激活廣告特徵？
+Demographics and Interests reports
+受眾特徵和興趣報告
+97.When does the tracking code send an event hit to Google Analytics?
+跟踪代碼何時將事件匹配發送到谷歌分析？
+Every time a user performs an action with event tracking implemented
+每次用戶執行以下操作時實施事件跟踪
+98.What campaign parameter is not available by default in Google Analytics ?
+默認情況下，哪些廣告系列參數不可用在Google Analytics（分析）中？
+utm_adgroup
+99.Sharing a Custom Report will share the report configuration and data included in the report.
+共享自定義報告將共享該報告報告中包含的配置和數據。
+FALSE
+錯誤的
+100.Which of the following is not a required parameter in the URL builder?
+以下哪個不是必需參數在網址生成器中？
+Campaign Content
+廣告活動內容
+101.A new Custom Channel Group may be applied retroactively to organize data 
+that has been previously collected.
+可以追溯地應用新的自定義渠道組，以組織先前收集的數據。
+True
+真的
+102.Which reports indicate how website referrals, organic search, and ad campaigns 
+assisted in conversions?
+哪些報告表明網站引薦，自然搜索和廣告系列如何幫助轉化？
+Multi-Channel Funnel reports
+多渠道路徑報告
