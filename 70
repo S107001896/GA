@@ -320,21 +320,69 @@ ad preference
 Google Analytics（分析）跟踪代碼何時發送網頁瀏覽量對Google Analytics（分析）有幫助嗎？
 Every time a user loads a webpage with embedded tracking code
 每次用戶加載帶有嵌入式跟踪代碼的網頁
-80.
-81.
-82.
-83.
-84.
-85.
-86.
-87.
-88.
-89.
-90.
-91.
-92.
-93.
-94.
+80.What campaigns require manual tags on destination URLs for tracking?
+哪些廣告系列需要在目標位置添加手動標籤跟踪網址？
+Email campaigns
+電子郵件活動
+81.What filter would only include data from a campaign titled “Back to School” in Campaign reports?
+哪些過濾器僅包含廣告系列中的數據廣告系列報告中標題為“重返校園”？
+Custom Include filter with field “Campaign Name” and pattern “back to school”
+具有“廣告系列”字段的自定義包含過濾器名稱”和“返回學校”模式
+82.What scope applies to Custom Metrics?
+什麼範圍適用於自定義指標？
+Hit
+打
+83.What report compares metrics based on user acquisition date over a series of weeks?
+哪些報告根據用戶比較指標幾週的採集日期？
+Cohort Analysis
+隊列分析
+84.The default session timeout duration in Google Analytics is how many minutes?
+Google Analytics中的默認會話超時時間是多少分鐘？
+30
+85.What data does Google Analytics prohibit collecting?
+Google Analytics（分析）禁止收集哪些數據？
+Personally identifiable information
+個人身份信息
+86.Using a standard Google Analytics configuration, which characteristics cannot 
+be used to create a custom segment?
+使用標準的Google Analytics（分析）配置，哪些特徵不能用於創建自定義細分？
+Users who are female and have children
+女性且有孩子的用戶
+87.If a Destination Goal is created for a newsletter sign- up and a user completes 
+the newsletter sign-up three times in three separate sessions, how many Goal conversions 
+will Google Analytics count?
+如果為電子報註冊創建了目標目標，並且用戶在三個不同的會話中完成了三遍電子報註冊，那麼Google Analytics（分析）
+將計算多少次目標轉化？
+3
+88.What is a “dimension” in Google Analytics?
+什麼是Google Analytics（分析）中的“維度”？
+An attribute of a data set that can be organized for better analysis
+可以組織以進行更好分析的數據集的屬性
+89.What feature is required to collect the number of comments users posted to a web page?
+收集數量需要什麼功能評論用戶發佈到網頁上？
+Custom Metric
+自定義指標
+90.Which metric reports on how often a channel contributes to a conversion prior to last-click 
+attribution?
+哪個指標報告了在最終點擊歸因之前，渠道為轉化帶來的頻率為多少？
+Assisted conversion
+輔助轉換
+91.What is the “Bounce Rate” in Google Analytics?
+什麼是Google Analytics（分析）中的“跳出率”？
+Percentage of visits when a user landed on a website and exited without any interactions
+用戶登陸網站並在沒有任何互動的情況下退出時的訪問百分比
+92.What model represents the hierarchical structure of a Google Analytics account?
+哪種模型代表了一個組織的層次結構Google Analytics（分析）帳戶？
+Account > Property > View
+帳戶>媒體資源>查看
+93.To increase the speed at which Google Analytics compiles reports, what action could be taken?
+加快Google Analytics（分析）的速度彙編報告，可以採取什麼措施？
+Choose “Faster response” in the sampling pulldown menu
+在採樣下拉菜單中選擇“快速響應”
+94.Sampling is applied to reports before segmentation.
+在進行細分之前，採樣將應用於報告。
+FALSE
+錯誤的
 95.
 96.
 97.
