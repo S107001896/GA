@@ -142,15 +142,42 @@ An additional report dimension for more specific analysis
 Google Analytics（分析）什麼時候無法識別默認情況下，來自同一用戶的會話？
 When the sessions happen in different browsers on the same device
 當會話在不同的瀏覽器中發生時在同一台設備上
-36.
-37.
-38.
-39.
-40.
-41.
-42.
-43.
-44.
+36.What report shows which web pages get the most traffic and highest engagement?
+哪些報告顯示哪些網頁獲得最多的訪問量和最高的參與度？
+All Pages report
+所有頁面報告
+37.What is not considered a “source” in Google Analytics by default?
+在Google中不被視為“來源”的內容默認情況下是Analytics（分析）？
+email
+電子郵件
+38.If a user visits a web page with an embedded video, leaves without clicking on anything, 
+and the session times out, how will Google Analytics report the session?
+如果用戶訪問帶有嵌入式視頻的網頁，不點擊就離開而會話超時，那麼Google Analytics（分析）將如何報告會話？
+As a bounce
+反彈
+39.What is not a benefit of Google Analytics Remarketing?
+Google Analytics（分析）沒有什麼好處再行銷？
+Allow customers to quickly reorder an item they have previously purchased
+允許客戶快速重新訂購商品他們以前購買過
+40.View filters may be applied retroactively to any data that has been processed.
+視圖過濾器可以追溯地應用於已處理的任何數據。
+False
+錯誤的
+41.What report shows the percentage of traffic that previously visited a website?
+哪些報告顯示了以前訪問過一個網站？
+Behavior > New vs returning report
+行為>新報告與退貨報告
+42.Once filters have been applied, what is the option to recover filtered data?
+一旦應用了過濾器，可以選擇什麼恢復過濾的數據？
+Filtered data is not recoverable
+過濾後的數據不可恢復
+43.For autotagging, what parameter does Google Ads include in the destination URL?
+對於自動標記，Google Ads使用什麼參數包含在目標網址中嗎？
+gclid=
+44.What report shows the percent of site traffic that visited previously?
+哪些報告顯示了網站訪問量所佔的百分比以前去過嗎？
+New vs Returning report
+新報告與退貨報告
 45.
 46.
 47.
