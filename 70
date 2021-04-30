@@ -252,15 +252,42 @@ When a user is inactive on a web page for more than 30 minutes
 什麼報告顯示用戶最近瀏覽的頁面離開網站之前？
 Exit Pages report
 退出頁面報告
-63.
-64.
-65.
-66.
-67.
-68.
-69.
-70.
-71.
+63.Google Analytics cannot collect data from which systems by default?
+Google Analytics（分析）無法從中收集數據系統默認？
+Offline inventory database
+離線庫存數據庫
+64.What would prevent data from appearing in a Custom Report?
+什麼會阻止數據出現在“自定義”中報告？
+A filter that removes all the data
+刪除所有數據的過濾器
+65.Where should the Analytics tracking code be placed in the HTML of a webpage for data collection?
+Google Analytics（分析）跟踪代碼應放在何處在網頁的HTML中進行數據收集？
+Just before the closing </head> tag
+在結束</ head>標記之前
+66.Segments will not allow you to do what?
+細分將不允許您做什麼？
+Permanently alter data
+永久更改數據
+67.To recognize users across different devices, what is required for User ID?
+要識別不同設備上的用戶，什麼是用戶ID是否必需？
+Sign-in that generates and sets unique IDs
+登錄生成並設置唯一ID
+68.What channel is not included in the default Channels report?
+默認頻道中不包含哪個頻道報告？
+Device
+設備
+69.What is not a filter setting for data in views?
+視圖中數據的過濾器設置不是什麼？
+Restore
+恢復
+70.What feature can join offline business systems data with online data collected by Google Analytics?
+什麼功能可以將離線業務系統數據與Google Analytics（分析）收集的在線數據結合起來？
+Data import
+資料匯入
+71.Which reports indicate how website referrals, organic search and ad campaigns assisted in conversions?
+哪些報告表明網站的推介方式是自然的搜索和廣告系列有助於轉化？
+Multi-Channel Funnel reports
+多渠道路徑報告
 72.
 73.
 74.
