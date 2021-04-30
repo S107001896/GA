@@ -178,24 +178,80 @@ gclid=
 哪些報告顯示了網站訪問量所佔的百分比以前去過嗎？
 New vs Returning report
 新報告與退貨報告
-45.
-46.
-47.
-48.
-49.
-50.
-51.
-52.
-53.
-54.
-55.
-56.
-57.
-58.
-59.
-60.
-61.
-62.
+45.What report shows users who initiated sessions over 1-day, 7-day, 14-day, and 30-day periods?
+哪些報告顯示了在1天，7天，14天和30天時段內發起會話的用戶？
+Active Users report
+活動用戶報告
+46.To view accurate data in a Custom Report, what action should be avoided?
+要在“自定義報告”中查看準確的數據，應該避免採取行動嗎？
+Pair metrics and dimensions of different scopes
+配對不同範圍的指標和維度
+47.How would a view filter be configured to include only users from Brazil and Argentina?
+如何將視圖過濾器配置為包括僅來自巴西和阿根廷的用戶？
+Filter 1: include Brazil or Argentina
+過濾條件1：包括巴西或阿根廷
+48.What cannot be collected by the default Analytics tracking code?
+默認Google Analytics（分析）無法收集的內容跟踪代碼？
+User’s favorite website
+用戶最喜歡的網站
+49.Views can include website data collected before the view was created.
+觀看次數可以包括在訪問之前收集的網站數據視圖已創建。
+FALSE
+錯誤的
+50.What report shows which types of mobile devices visited a website?
+什麼報告顯示哪些類型的移動設備訪問了一個網站？
+Mobile > Devices report
+移動>設備報告
+51.Within how many days can a deleted view be restored?
+可以在幾天之內刪除一個視圖恢復了嗎？
+35
+52.What is not a benefit of using segments to analyze data?
+使用細分進行分析沒有什麼好處數據？
+Permanently modify the data in a view
+永久修改視圖中的數據
+53.What report provides data on how specific sections of a website performed?
+哪份報告提供有關以下方面的數據：一個網站表演？
+Content Drilldown report
+內容深入報表
+54.What criteria could not be used to create a Dynamic Remarketing audience?
+不能使用什麼條件創建動態再行銷目標對象？
+Users who returned an item they purchased
+退回購買商品的用戶
+55.What report shows a visual representation of user interactions on a website?
+什麼報告顯示用戶的視覺表示網站上的互動？
+Behavior Flow report
+行為流程報告
+56.A new Custom Channel Group may be applied retroactively to organise data that 
+has been previously collected.
+可以追溯地應用新的自定義渠道組，以組織先前收集的數據。
+True
+真的
+57.When linking a Google Ads account to Google Analytics, what is not possible?
+將Google Ads帳號鏈接到Google時Analytics（分析），什麼是不可能的？
+Adjust keyword bids in Google Ads fromGoogle Analytics
+從調整Google Ads中的關鍵字出價谷歌分析
+58.What asset is used to build a remarketing list?
+什麼資產用於建立再營銷列表？
+Custom Segment
+自定義細分
+59.If the Google Merchandise Store sets up a URL goal of “/ordercomplete” and a Match Type 
+of “Begins with”, which of the following pages on www.googlemerchandisestore.com will NOT count 
+as a goal?
+如果Google Merchandise Store將URL目標設置為“ / ordercomplete”，並將匹配類型設置為“ Begins with”，那
+麼www.googlemerchandisestore.com上的以下哪個頁面不算作目標？
+/order/complete.php
+60.What does assigning a value to a Google Analytics Goal enable?
+如何為Google Analytics（分析）分配值目標實現了嗎？
+Compare goal conversions and measure changes to a website
+比較目標轉化並衡量對網站的更改
+61.When does a default Analytics session expire?
+默認的Google Analytics（分析）會話何時過期？
+When a user is inactive on a web page for more than 30 minutes
+當用戶不活躍在網頁上以獲取更多信息時超過30分鐘
+62.What report indicates the last page users viewed before leaving a website?
+什麼報告顯示用戶最近瀏覽的頁面離開網站之前？
+Exit Pages report
+退出頁面報告
 63.
 64.
 65.
