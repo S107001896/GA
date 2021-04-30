@@ -288,14 +288,38 @@ Data import
 哪些報告表明網站的推介方式是自然的搜索和廣告系列有助於轉化？
 Multi-Channel Funnel reports
 多渠道路徑報告
-72.
-73.
-74.
-75.
-76.
-77.
-78.
-79.
+72.In Multi-Channel Funnel Reports, what channel would not be credited with a conversion?
+在“多渠道路徑報告”中，哪個渠道不會歸功於轉換？
+Television commercials
+電視廣告
+73.What type of Custom Report shows a static sortable table with rows of data?
+哪種類型的自定義報告顯示靜態可分類有數據行的表？
+Flat Table
+平面桌
+74.What feature is required to track customer search terms on a website?
+跟踪客戶搜索需要什麼功能網站上的條款？
+Site Search
+網站搜尋
+75.What is a “metric” in Google Analytics?
+什麼是Google Analytics（分析）中的“指標”？
+The numbers in a data set often paired with dimensions
+數據集中的數字通常與維配對
+76.What criteria cannot be used to create a Custom Segment?
+哪些條件不能用於創建自定義部分？
+Ad type
+廣告類型
+77.Which default traffic source dimensions does Google Analytics report for each website visitor?
+Google Analytics（分析）會為每個網站訪問者報告哪些默認流量來源維度？
+Source and Medium
+來源和媒介
+78.Which user characteristic may NOT be used to change keyword bids in Google Ads?:
+哪些用戶特徵可能不習慣更改Google Ads中的關鍵字出價？
+ad preference
+廣告偏好
+79.When does the Analytics tracking code send a pageview hit to Google Analytics?
+Google Analytics（分析）跟踪代碼何時發送網頁瀏覽量對Google Analytics（分析）有幫助嗎？
+Every time a user loads a webpage with embedded tracking code
+每次用戶加載帶有嵌入式跟踪代碼的網頁
 80.
 81.
 82.
